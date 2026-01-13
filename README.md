@@ -6,7 +6,7 @@ Uploads Windows EXE files and runs them inside an isolated QEMU VM.
 - Linux host
 - QEMU
 - Node.js
-- Windows VM image (not included)
+- Windows VM image
 
 ## Setup
 1. Create a Windows VM image locally
